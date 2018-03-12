@@ -16,6 +16,25 @@
     </license>
   </licenses>
 
+  <developers>
+    <developer>
+      <id>kohsuke</id>
+      <name>Kohsuke Kawaguchi</name>
+    </developer>
+    <developer>
+      <id>stephenconnolly</id>
+      <name>Stephen Connolly</name>
+    </developer>
+    <developer>
+      <id>mc1arke</id>
+      <name>Michael Clarke</name>
+    </developer>
+    <developer>
+      <id>ifernandezcalvo</id>
+      <name>Ivan Fernandez Calvo</name>
+    </developer>
+  </developers>
+  
   <scm>
     <connection>scm:git:git://github.com/jenkinsci/trilead-ssh2.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/jenkinsci/trilead-ssh2.git</developerConnection>
